@@ -13,11 +13,21 @@ Tags: football tables, league tables, soccer tables, premier league, football\
 Author URI: http://footballteamnews.info\
 Author: B Apps\
 Requires at least: 2.3\
+<<<<<<< .mine
+Tested up to: 4.3\
+Stable tag: 2.0\
+Version: 2.0 \
+=======
 Tested up to: 4.3\
 Stable tag: 1.1\
 Version: 1.1 \
+>>>>>>> .r415813
 \
+<<<<<<< .mine
+Gets the latest football Tables from footbo.com and post them into your wordpress website/blog using shortcode.\
+=======
 Football/Soccer League Tables grabs the latest football Tables from footbo.com and post them into your wordpress website/blog.\
+>>>>>>> .r415813
 \
 == Description ==\
 \
